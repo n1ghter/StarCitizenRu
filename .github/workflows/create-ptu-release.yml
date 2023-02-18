@@ -8,7 +8,7 @@ on:
         required: true
       gameVersion:
         description: 'Game version'
-        default: '3.17.5'
+        default: '3.18.0'
         required: true
       preRelease:
         description: 'Pre-Release'
