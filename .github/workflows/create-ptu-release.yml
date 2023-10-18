@@ -8,7 +8,7 @@ on:
         required: true
       gameVersion:
         description: 'Game version'
-        default: '3.18.0'
+        default: '3.21.0'
         required: true
       preRelease:
         description: 'Pre-Release'
@@ -18,6 +18,9 @@ on:
 jobs:
   build_ptu:
     runs-on: ubuntu-latest
+    permissions:
+        contents: write
+        deployments: write
 
     steps:
       - name: Chekout

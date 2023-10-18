@@ -34,7 +34,6 @@ def main(args):
     try:
         with codecs.open('index.txt', 'w', 'utf-8') as indexFile:
             AppendDirectory(indexFile, 'data')
-            AppendFile(indexFile, 'patcher.bin')
     except Exception as err:
         print(f'Create files index failed:\n{err}')
         return 1
