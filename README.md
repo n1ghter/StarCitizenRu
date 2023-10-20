@@ -1,13 +1,5 @@
 # Локализация Star Citizen на русский язык (с сохранением оригинальных английских названий)
 
-## В версии 3.19 ядро локализации не работает, ни один из пакетов локализации не даст зайти в игру. Увы :(
-## <s>UPD 27.05.2022: Локализация работает в обход EAC, обратите внимание на апдейты для каждой из утилит. [Подробнее как оно работает](#eac-about)</s>
-### Внимание! Все действия Вы выполняете на свой страх и риск. Использование локализации, на данный момент, нарушает лицензионное соглашение с разработчиками игры CIG. Надеемся, что CIG в скором времени разберутся с античитом и добавят локализацию в белый список.
-
-### CIG просто меееееедленныееееее :/ Пнуть их можно (нужно!) тут: [https://robertsspaceindustries.com/spectrum/community/SC/forum/3/thread/any-update-on-the-mod-approval-program](https://robertsspaceindustries.com/spectrum/community/SC/forum/3/thread/any-update-on-the-mod-approval-program)
-
-
-
 [![Latest Release Version](https://img.shields.io/github/release/budukratok/SC_not_so_ru?sort=date&label=Последняя%20версия)](https://github.com/budukratok/SC_not_so_ru/releases/latest)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/budukratok/SC_not_so_ru/latest/total?label=Скачиваний%20последней%20версии*)](https://github.com/budukratok/SC_not_so_ru/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/budukratok/SC_not_so_ru/total.svg?label=Скачиваний%20всего*)](https://github.com/budukratok/SC_not_so_ru/releases) 
