@@ -1,3 +1,4 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Latest Release Version](https://img.shields.io/github/release/n1ghter/StarCitizenRu?sort=date&label=Последняя%20версия)](https://github.com/n1ghter/StarCitizenRu/releases/latest)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/n1ghter/StarCitizenRu/latest/total?label=Скачиваний%20последней%20версии)](https://github.com/n1ghter/StarCitizenRu/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/n1ghter/StarCitizenRu/total.svg?label=Скачиваний%20всего)](https://github.com/n1ghter/StarCitizenRu/releases)
@@ -33,3 +34,7 @@
 > перевод стар ситизен, русский перевод стар ситизен, перевод на русский стар ситизен, 
 > русский стар ситизен, русский язык стар ситизен, язык русский стар ситизен, на русском стар ситизен, 
 > русификатор стар ситизен, ru стар ситизен, ситизен русский
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
