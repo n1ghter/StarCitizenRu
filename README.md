@@ -69,3 +69,15 @@ star citizen локализация, star citizen русская локализ�
 
 локализация стар ситизен, русская локализация стар ситизен, локализация на русском стар ситизен, перевод стар ситизен, русский перевод стар ситизен, перевод на русский стар ситизен, русский стар ситизен, русский язык стар ситизен, язык русский стар ситизен, на русском стар ситизен, русификатор стар ситизен, ru стар ситизен, ситизен русский,
 Русификатор Star Citizen 2022
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. See the [LICENSE](LICENSE) file for details.
+
+## Special Permission for Cloud Imperium Games and Affiliates
+
+We, the contributors of this project, grant Cloud Imperium Rights LLC, Cloud Imperium Rights Ltd., and Roberts Space Industries International Ltd. (collectively referred to as "Cloud Imperium Games") the full and unrestricted right to use, modify, and distribute our translation of Star Citizen for any purpose, including commercial use, despite the non-commercial clause in the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+This permission allows Cloud Imperium Games to incorporate the translation into their game, Star Citizen, and to use it in any other way they deem appropriate.
+
+For more details, see the [SPECIAL_PERMISSION](SPECIAL_PERMISSION.md) file.
