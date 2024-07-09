@@ -45,4 +45,4 @@ We, the contributors of this project, grant Cloud Imperium Rights LLC, Cloud Imp
 
 This permission allows Cloud Imperium Games to incorporate the translation into their game, Star Citizen, and to use it in any other way they deem appropriate.
 
-For more details, see the [SPECIAL_PERMISSION.md](SPECIAL_PERMISSION.md) file.
+For more details, see the [SPECIAL_PERMISSION](SPECIAL_PERMISSION.md) file.
