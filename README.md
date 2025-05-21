@@ -2,18 +2,19 @@
 [![Latest Release Version](https://img.shields.io/github/release/n1ghter/StarCitizenRu?sort=date&label=Последняя%20версия)](https://github.com/n1ghter/StarCitizenRu/releases/latest)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/n1ghter/StarCitizenRu/latest/total?label=Скачиваний%20последней%20версии)](https://github.com/n1ghter/StarCitizenRu/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/n1ghter/StarCitizenRu/total.svg?label=Скачиваний%20всего)](https://github.com/n1ghter/StarCitizenRu/releases)
-# Локализация Star Citizen на русский язык
+# Единая локализация Star Citizen на русский язык
 Эта модификация создана силами сообщества «Star Citizen на русском» и добавляет в игру поддержку русского языка.  
 
 Так же доступна [альтернативная локализация Star Citizen на русский язык **с сохранением оригинальных английских названий**](https://github.com/budukratok/SC_not_so_ru). Там же есть инструкция как установить локализацию при помощи утилиты Star Citizen Tools.
 
 ### Приложения для установки и обновления
 
+* [Русификатор](https://www.expanseunion.com/sc/locru) от людей в тапках: [скачать последнюю версию](https://cp.expanseunion.com/localisation/sc-localisation-ru.exe)
 * [Star Citizen Tools](https://github.com/h0useRus/StarCitizen) от h0use: [скачать последнюю версию](https://github.com/h0useRus/StarCitizen/releases/latest)
 * [Star Citizen Helper](https://github.com/Shin0by/StarCitizen-Helper) от Shin0by: [скачать последнюю версию](https://github.com/Shin0by/StarCitizen-Helper/releases/latest)
 
 По любым вопросам Вы можете обратиться на общем публичном Discord сервере русскоязычного сообщества: https://discord.gg/8U45k2CkE4  
-![Раздел по локализации на Discord сервере «Star Citizen на русском»](https://discord.com/channels/93088419634216960/710406995299008533)  
+[Раздел по локализации на Discord сервере «Star Citizen на русском»](https://discord.com/channels/93088419634216960/710406995299008533)  
 Если Вы нашли какие-то ошибки в переводе то просим написать об этом нам в Discord'е.  
 Мы будем Вам очень благодарны!
 
