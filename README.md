@@ -13,7 +13,7 @@
 * [Star Citizen Helper](https://github.com/Shin0by/StarCitizen-Helper) от Shin0by: [скачать последнюю версию](https://github.com/Shin0by/StarCitizen-Helper/releases/latest)
 
 По любым вопросам Вы можете обратиться на общем публичном Discord сервере русскоязычного сообщества: https://discord.gg/8U45k2CkE4  
-![Раздел по локализации на Discord сервере «Star Citizen на русском»](https://media.discordapp.net/attachments/291284444810182656/883382193370595328/unknown.png)  
+![Раздел по локализации на Discord сервере «Star Citizen на русском»](https://discord.com/channels/93088419634216960/710406995299008533)  
 Если Вы нашли какие-то ошибки в переводе то просим написать об этом нам в Discord'е.  
 Мы будем Вам очень благодарны!
 
