@@ -11,7 +11,7 @@
 * [Star Citizen Tools](https://github.com/h0useRus/StarCitizen) от h0use: [скачать последнюю версию](https://github.com/h0useRus/StarCitizen/releases/latest)
 * [Star Citizen Helper](https://github.com/Shin0by/StarCitizen-Helper) от Shin0by: [скачать последнюю версию](https://github.com/Shin0by/StarCitizen-Helper/releases/latest)
 
-По любым вопросам Вы можете обратиться на общем публичном Discord сервере русскоязычного сообщества: https://discord.gg/8U45k2CkE4  
+По любым вопросам Вы можете обратиться на общем публичном Discord сервере русскоязычного сообщества: [https://discord.gg/StarCitizenRu](https://discord.gg/StarCitizenRu)  
 [Раздел по локализации на Discord сервере «Star Citizen на русском»](https://discord.com/channels/93088419634216960/710406995299008533)  
 Если Вы нашли какие-то ошибки в переводе то просим написать об этом нам в Discord'е.  
 Мы будем Вам очень благодарны!
